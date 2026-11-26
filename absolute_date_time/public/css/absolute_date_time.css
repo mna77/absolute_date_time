@@ -1,0 +1,9 @@
+/* Absolute Date Time: exact timestamp in the Activity section */
+.new-timeline .fs-abs-dt {
+	white-space: nowrap;
+}
+
+.new-timeline .fs-abs-dt .fs-abs-dt-exact {
+	font-weight: 600;
+	color: var(--text-color, inherit);
+}
